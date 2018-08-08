@@ -3,6 +3,7 @@
 ## NOTE
 
 i forked this repo only to tag a version for go1.11beta3 mod version
+current version is v1.2.1
 
 <img align="right" width="159px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png">
 
