@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"log"
 
-	"github.com/gin-gonic/gin"
+	"github.com/dayuoba/gin"
 )
 
 var html = template.Must(template.New("https").Parse(`

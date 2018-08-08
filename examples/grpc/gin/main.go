@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/gin-gonic/gin"
-	pb "github.com/gin-gonic/gin/examples/grpc/pb"
+	"github.com/dayuoba/gin"
+	pb "github.com/dayuoba/gin/examples/grpc/pb"
 	"google.golang.org/grpc"
 )
 
